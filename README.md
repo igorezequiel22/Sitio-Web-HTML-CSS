@@ -1,3 +1,3 @@
 # Sitio-Web-HTML-CSS
 Sitio web basico 
-![Logo del Proyecto](imges/logo-desarrolloWeb.png)
+![Logo del Proyecto](sitioweb-ezequiel/imges/logo-desarolloWeb.png)
